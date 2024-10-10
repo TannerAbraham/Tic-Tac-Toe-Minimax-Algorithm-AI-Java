@@ -25,10 +25,8 @@ public class HelloApplication extends Application {
     private final Label title = new Label("Tic Tac Toe");
     private final Button[] btns = new Button[9];
 
-
     private final Button restartButton = new Button("Restart Now");
     Font font = Font.font("Roboto", FontWeight.BOLD, 30);
-
 
     private boolean gameOver = false;
     private int activePlayer = 0;
@@ -44,7 +42,6 @@ public class HelloApplication extends Application {
             {0, 4, 8},
             {2, 4, 6}
     };
-
 
     @Override
     public void start(Stage stage) {
@@ -209,7 +206,6 @@ public class HelloApplication extends Application {
                 int idS = Integer.parseInt(btn.getId());
                 if (gameOver) {
                     // The game is over; print a message.
-
 
                     Alert alert = new Alert(Alert.AlertType.ERROR);
                     alert.setTitle("Game Over");
