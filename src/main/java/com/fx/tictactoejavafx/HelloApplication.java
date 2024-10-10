@@ -18,8 +18,6 @@ import java.util.Arrays;
 import javafx.animation.PauseTransition;
 import javafx.util.Duration;
 
-
-
 public class HelloApplication extends Application {
 
     private final GridPane gridPane = new GridPane();
