@@ -48,8 +48,8 @@ The code is structured as follows:
 
 ## Screenshots
 
-![Screen Shot 2024-10-10 at 5 28 40 AM](https://github.com/user-attachments/assets/c28cbf8e-efad-4999-8b88-f2e176f88f7e)
 ![Screen Shot 2024-10-10 at 5 29 11 AM](https://github.com/user-attachments/assets/ebcc70d6-d170-4066-ab30-4c269823c43b)
+![Screen Shot 2024-10-10 at 5 28 40 AM](https://github.com/user-attachments/assets/c28cbf8e-efad-4999-8b88-f2e176f88f7e)
 
 ## Resources
 
