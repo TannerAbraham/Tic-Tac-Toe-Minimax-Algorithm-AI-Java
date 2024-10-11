@@ -26,8 +26,6 @@ To run this project locally, follow these steps:
 3. Compile and run the TicTacToe class as the main entry point of the application.
   
 ### How to Play
-
-```markdown
 1. Launch the application, and you'll see a standard Tic Tac Toe grid with a "Tic Tac Toe" title at the top.
 2. Click on any empty cell to make your move as "O". 
 3. The AI, which plays as "X", will then make its move.
