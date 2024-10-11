@@ -26,8 +26,8 @@ To run this project locally, follow these steps:
 3. Compile and run the TicTacToe class as the main entry point of the application.
   
 ### How to Play
+
 ```markdown
-## How to Play
 1. Launch the application, and you'll see a standard Tic Tac Toe grid with a "Tic Tac Toe" title at the top.
 2. Click on any empty cell to make your move as "O". 
 3. The AI, which plays as "X", will then make its move.
@@ -35,29 +35,36 @@ To run this project locally, follow these steps:
 5. To play again, click the "Restart Now" button.
 
 ## AI Implementation
+
 The AI opponent uses the minimax algorithm with alpha-beta pruning for optimal decision-making:
 - **Minimax Algorithm**: The algorithm ensures that the AI always makes the best possible move, either maximizing its chances of winning or minimizing potential losses.
 - **Alpha-Beta Pruning**: This optimization reduces the number of nodes evaluated by the minimax algorithm, making the AI's decision process more efficient.
 
 ## Project Structure
+
 The code is structured as follows:
 - **GUI Elements**: Created and managed within the `createGUI()` and `handleEvent()` methods.
 - **Game Logic**: The `isWinner()`, `isBoardFull()`, and `checkForWinner()` methods handle the game's core logic.
 - **AI Logic**: Implemented within the `minimaxWithAlphaBeta()` method and called within `makeMoveWithAI()` to execute the AI's moves.
 
 ## Screenshots
+
 Add screenshots of the game window here for a better visual understanding of the project.
 
 ## Resources
+
 - **JavaFX Documentation**: [JavaFX API](https://openjfx.io/)
 - **Minimax Algorithm**: [Wikipedia - Minimax](https://en.wikipedia.org/wiki/Minimax)
 
 ## License
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
+
 - **Tanner Abraham** - Initial work - [Tanner Abraham](https://github.com/Tanner Abraham)
 
 ## Acknowledgments
+
 - JavaFX for the GUI framework
 - Inspiration from classic Tic Tac Toe games
