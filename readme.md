@@ -25,7 +25,8 @@ To run this project locally, follow these steps:
 2. Ensure you have the JavaFX SDK set up in your IDE or configured in your command line.
 3. Compile and run the TicTacToe class as the main entry point of the application.
   
-### How to Play
+## How to Play
+
 1. Launch the application, and you'll see a standard Tic Tac Toe grid with a "Tic Tac Toe" title at the top.
 2. Click on any empty cell to make your move as "O". 
 3. The AI, which plays as "X", will then make its move.
